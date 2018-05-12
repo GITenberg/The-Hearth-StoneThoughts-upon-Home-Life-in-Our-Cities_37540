@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38326'
     url: http://www.gutenberg.org/2009/agents/38326
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37540#The-Hearth-StoneThoughts-upon-Home-Life-in-Our-Cities
 gutenberg_issued: '2011-09-26'
 gutenberg_type: Text
 identifiers:
