@@ -1,0 +1,32 @@
+_repo: The-Hearth-StoneThoughts-upon-Home-Life-in-Our-Cities_37540
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Osgood, Samuel
+    birthdate: 1812
+    deathdate: 1880
+    gutenberg_agent_id: '38326'
+    url: http://www.gutenberg.org/2009/agents/38326
+description: ''
+gutenberg_issued: '2011-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Conduct of life'
+- !lcsh 'Christian life'
+tableOfContents: Home views of American life -- The ideal of womanhood -- The hope
+  of childhood -- New things -- Solicitude of parents -- Reverence in children --
+  Brothers and sisters -- Marriage -- Our friends -- Master and servant -- The divine
+  guest -- The orphan -- The young prodigal -- Education of daughters -- Business
+  and the heart -- Summer in the country -- Returning home -- The church in the house.
+title: 'The Hearth-Stone: Thoughts Upon Home-Life in Our Cities'
+url: http://www.gutenberg.org/ebooks/37540
